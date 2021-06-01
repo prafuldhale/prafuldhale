@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prafuldhale
 - 👀 I’m interested in Software Developement/Data Science
-- 🌱 I’m currently learning Android Developement
+<!-- 🌱 I’m currently learning Android Developement-->
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me github.com/prafuldhale
 
