@@ -31,6 +31,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/prafuldhale/prafuldhale/output/snake.svg" alt="Snake animation" />
-
 ###
